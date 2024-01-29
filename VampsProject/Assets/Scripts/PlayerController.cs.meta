@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4b50c9a776e18dc47a513832aa96cc2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerHealthSlider: {instanceID: 0}
+  - SlashAttack: {fileID: 3899785164715399192, guid: 91b188215a4a60f4585802e4b8fdfb64, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

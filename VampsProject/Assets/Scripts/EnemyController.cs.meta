@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1bde936751ff8694885e51f3389dd745
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenGem: {fileID: 7537860429845010028, guid: 1eaf1740b5da26d469eb56554fcecf4c, type: 3}
+  - redGem: {fileID: 905812854247264865, guid: a8c0064ca505cf44588fe1b51ba3db7b, type: 3}
+  - purpleGem: {fileID: 1119611442182680271, guid: 0d23305f4bf0f3940bc7cffc4520e49a, type: 3}
+  - orangeGem: {fileID: 1119611442182680271, guid: 0d23305f4bf0f3940bc7cffc4520e49a, type: 3}
+  - blueGem: {fileID: 381739264801194708, guid: 81626ade9330cc84aa9784184c98d8a9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

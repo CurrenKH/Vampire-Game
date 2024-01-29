@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: df63c84bcde3cfe4498d40785c1c69cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LevelUpMenu: {instanceID: 0}
+  - slashButton: {instanceID: 0}
+  - slashText: {instanceID: 0}
+  - lightningButton: {instanceID: 0}
+  - lightningText: {instanceID: 0}
+  - daggerButton: {instanceID: 0}
+  - daggerText: {instanceID: 0}
+  - slashPrefab: {fileID: 3899785164715399192, guid: 91b188215a4a60f4585802e4b8fdfb64, type: 3}
+  - slashPrefabBlack: {fileID: 3899785164715399192, guid: 300b65da6a5427549890c4c77960006f, type: 3}
+  - lightningPrefab: {fileID: 5341719626504150647, guid: 05f142d31f80cd443b90bfad1cd51b31, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
